@@ -5,9 +5,9 @@ This repository contains projects related to creating Business Dashboards in Tab
 
 The following projects are represented in the repository:
 
-1. **Project:🥇** — 🚊 UK Train Analysis: Краткое описание, цели проекта, основные инсайты.
-2. **Project:🥈** — 🛍️ Order Analytics and Revenue Trends: Краткое описание, цели проекта, основные инсайты.
-3. **Project:🥉** — 🗼Telecommunications Company(Customer Churn): Краткое описание, цели проекта, основные инсайты.
+1. **Project:🥇** — 🚊 UK Train Analysis.
+2. **Project:🥈** — 🛍️ Order Analytics and Revenue Trends.
+3. **Project:🥉** — 🗼Telecommunications Company(Customer Churn).
 
 Each project includes:
 - Dashboards built with Tableau.
