@@ -1,6 +1,24 @@
-# Visualisations-Tableau
+# Business Dashboard Projects
+This repository contains projects related to creating Business Dashboards in Tableau.Each project represent a visualization of the data,that allows analyze and make decisions base on business data.
 
-Portfolio_Projects_of_Tableau
+## Project Description
 
-This are my portfolio projects of Tableau
-   
+The following projects are represented in the repository:
+
+1. **Project:🥇** — 🚊 UK Train Analysis: Краткое описание, цели проекта, основные инсайты.
+2. **Project:🥈** — 🛍️ Order Analytics and Revenue Trends: Краткое описание, цели проекта, основные инсайты.
+3. **Project:🥉** — 🗼Telecommunications Company(Customer Churn): Краткое описание, цели проекта, основные инсайты.
+
+Each project includes:
+- Dashboards built with Tableau.
+- A description of the visualizations and an explanation of how they help solve business problems.
+- Link to dataset.
+
+## Setup and use
+
+To view dashboards you need to:
+1. Install **Tableau Desktop** or use **Tableau Public** for data visualization.
+2. Download the appropriate project files from the repository.
+3. Open the files in Tableau and explore the dashboards.
+
+
